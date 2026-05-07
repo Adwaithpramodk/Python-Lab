@@ -1,0 +1,1 @@
+Python is a powerful programming language. Python is easy to learn and Python is widely used in web development, data science, automation, and artificial intelligence. Many developers use Python because the language is simple, readable, and efficient. Learning Python helps beginners understand programming concepts quickly.
